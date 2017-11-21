@@ -1,6 +1,6 @@
 Arangodb sync indexes
 ========
-We use ArangoDB master-slave replication setup based on documentation here_. in our application.
+We use ArangoDB master-slave replication setup based on documentation here_ in our application.
 
 .. _here: https://docs.arangodb.com/3.2/Manual/Administration/Replication/Asynchronous/
 
