@@ -4,9 +4,9 @@ from pyArango.collection import *
 from pyArango.index import *
 import json
 
-MASTER = 'http://db.plankton.master.bhinnekalocal.com:8529'
-SLAVE1 = 'http://10.80.10.216:8529'
-SLAVE2 = 'http://10.80.10.112:8529'
+MASTER = 'http://masterdb.com:8529'
+SLAVE1 = 'http://slavedb:8529'
+SLAVE2 = 'http://slavedb2:8529'
 conn = Connection(arangoURL=MASTER, username='root', password='toor')
 conn_slave_1 = Connection(arangoURL=SLAVE1, username='root', password='toor')
 conn_slave_2 = Connection(arangoURL=SLAVE2, username='root', password='toor')
