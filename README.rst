@@ -13,7 +13,7 @@ Installation
 -------------
 .. code:: shell
 
-pip install pyArango
+ pip install pyArango
 
 
 Initialization
@@ -26,4 +26,4 @@ SLAVE2 = 'http://slavedb2:8529'
 
 .. code:: shell
 
-python script.py
+ python script.py
