@@ -23,7 +23,7 @@ cffi==1.10.0
 click==6.7
 colorama==0.3.7
 cryptography==1.8.1
-Django==1.11.7
+Django==1.11.29
 docutils==0.14
 elasticsearch==5.2.0
 Flask==0.12.2
