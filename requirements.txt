@@ -56,7 +56,7 @@ pytz==2017.3
 PyYAML==3.12
 redis==2.10.5
 requests==2.13.0
-rsa==3.4.2
+rsa==4.7
 s3transfer==0.1.10
 six==1.10.0
 urllib3==1.20
